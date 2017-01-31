@@ -1,65 +1,58 @@
 .container {
-  margin: 0 auto;
-  max-width: 500px;
-
+    margin: 0 auto;
+    max-width: 500px;
 }
-
-h1, .tagline {
-  text-align: center;
+.tagline {
+    text-align: center;
 }
-
+}
+h1 {
+    text-align: center;
+}
 body {
-  font-family: 'Open Sans', Arial, sans-serif;
-  background: #F9F7F5;
+    font-family: 'Open Sans', Arial, sans-serif;
+    background: #F9F7F5;
 }
 header {
-  margin-top: 25px;
-  text-align: center;
-  background: white;
-  width: 500px;
-  height: 120px;
-  padding-top: 30px;
-
-  padding-bottom: 30px;
-
+    margin-top: 20px;
+    text-align: center;
+    background: white;
+    width: 465px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
 }
-
 section {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  max-width: 500px;
-  padding: 30px 30px 30px 30px;
-  background: white;
-
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 465px;
+    background: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
 }
-
 img {
-
-  margin: 10px;
-  width: 45px;
-  height: 45px;
+    margin: 5px;
+    width: 55px;
 }
 h2 {
-  font-size: 25px;
+    font-size: 25px;
 }
-
 .city-description {
-  padding-left: 25px;
-  font-size: 15px;
+    padding-left: 25px;
+    font-size: 15px;
 }
-
 h2 {
-
-  padding-bottom: 15px;
-  border-bottom-style: solid;
-  border-bottom-width: 3px;
-  border-bottom-color: orange;
+    padding-bottom: 20px;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-bottom-color: #D0985F;
 }
-
 a:hover {
     color: orange;
 }
-
 a:link {
     color: purple;
 }
